@@ -3,7 +3,7 @@
   Sistema Web Comprensas Lujo Herbal.
   
 # Integrantes:
-  -Ian Vargas Porras  
-  -Leonardo Guzman Brenes   
-  -Osleidy Garcia Garcia   
+  Ian Vargas Porras /n 
+  Leonardo Guzman Brenes   
+  Osleidy Garcia Garcia   
    
